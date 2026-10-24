@@ -1,4 +1,4 @@
-Time_s,Acceleration_ms2,Altitude_AGL_m
+Time_s,Acceleration_ms2,Altitude_AGL_ft
 0.0,8.8059,-0.51
 0.05,98.2108,-0.51
 0.1,108.7863,-0.51
